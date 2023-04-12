@@ -20,5 +20,14 @@ Siamese Networks are often used for tasks such as face recognition, where the ne
 
 # Results
 
+
+
+https://user-images.githubusercontent.com/96463139/231529285-1196f153-1908-486e-94dd-08cb76d17a8e.mp4
+
+
+
 # Requirements 
+
+```bash
 pip install -r requirements.txt
+```
